@@ -40,19 +40,6 @@ On this page you can review my research publications and work in progress.
 	*Journal of Trading*, Vol. 6, No. 3, pp. 32 - 40.
 
 
-## Work in Progress 
-- [The Economic Effects of Renewable Portfolio Standards: An Econometric Analysis]().
-- [Teaching Financial Derivativates with the Python Programming Language]().
-- [Tools for Reproducible Research in Financial Economics]().
-- [Classifying Trade-Direction Indicators from High-Frequency Financial Data](), with J. Egginton and T. Moon.
-- [Bayesian Option Pricing with Predictive Model Averaging](), with E. Aldrich.
-- [Measuring Pricing Error in Modern Financial Markets](), with B. Blau.
-- [Are Corporate Insiders Informed Traders?](), with B. Blau. 
-
-
-# Book
-
-I am under contract with Apress Publishers to write a book titled *Beginning Programming for Financial Analysts in Python, C++, and Cython* to be published in 2016. The book assumes no programming experience, but does assume a familiarity with financial economics at the masters level. 
 
 
 
