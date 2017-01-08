@@ -1,6 +1,10 @@
 # Teaching
 
+<br>
+
 ## Spring 2017
+
+<br>
 
 This semester I am teaching two courses:
 
