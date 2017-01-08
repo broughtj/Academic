@@ -1,3 +1,7 @@
+---
+layout: basic
+---
+
 <img src="/images/tyler-brough.jpg" width=256 height=256 />
 
 This is the academic website for [Tyler J. Brough][tjb]
