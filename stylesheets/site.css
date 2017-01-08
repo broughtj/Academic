@@ -1,0 +1,131 @@
+/* Fonts */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans+Mono);
+
+body, h1, h2, h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+code {
+    font-family: 'Droid Sans Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Inconsolata', 'Consolas', 'Monaco', monospace;
+}
+
+
+/* Colors */
+
+body, h1, h2, h3 {
+    background-color: white;
+    color: #505050;
+}
+
+h1 span {
+    color: #BBBBBB;
+}
+
+p {
+    font-size: 120%;
+    line-height: 2em;
+}
+
+div .highlight {
+    border: 1px solid #BBBBBB;
+    background-color: white;
+}
+
+/* Keywords */
+code .k, code .kd {
+    color: #BA2640;
+}
+
+code {
+    color: #EC5E0C;
+}
+
+/* Names */
+code .n {
+    color: #EC5E0C;
+}
+
+/* Punctuation, ops, strings, comments */
+div .highlight code, code .p, code .o, code .s, code .c1 {
+    color: #505050;
+}
+
+a, a:visited, a:hover, a:focus {
+    color: #26ADE4;
+    text-decoration: none;
+}
+
+/* [**Foo**](link) */
+a strong, a:visited strong, a:hover strong, a:focus strong {
+    color: #26ADE4;
+    text-decoration: none;
+}
+
+/* [`Foo`](link) */
+a code, a:visited code, a:hover code, a:focus code {
+    color: #26ADE4;
+    text-decoration: none;
+}
+
+/* Layout */
+
+body {
+    padding-left: 3.4em;
+    padding-right: 3.4em;
+    padding-top: 5.8em;
+    padding-bottom: 5.8em;
+    max-width: 70em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+h1 span {
+    font-weight: normal;
+    margin-left: 1em;
+}
+
+h2 {
+    margin-top: 2.2em;
+    font-size: 140%;
+    font-weight: bold;
+}
+
+
+h3 {
+    margin-top: 2.2em;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+p {
+    margin-top: 1.7em;
+    margin-bottom: 1.7em;
+    line-height: 1.8em;
+}
+
+code {
+    margin-left: 0.4em;
+    margin-right: 0.4em;
+}
+
+pre {
+    margin: 1.7em;
+}
+
+pre code {
+    white-space: pre;
+    margin-left: 0em;
+    margin-right: 0em;
+}
+
+li {
+    list-style-type: circle;
+    margin-left: 2em;
+}
