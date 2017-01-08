@@ -1,3 +1,10 @@
+---
+layout: page
+title: Teaching
+tags: [market microstructure, derivatives markets, applied econometrics, computational methods]
+modified: 2017-01-08
+---
+
 # Teaching
 
 <br>
