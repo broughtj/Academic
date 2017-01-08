@@ -10,6 +10,6 @@ Please see my [teaching] and [research] pages for more information.
 
 [tjb]: https://broughtj.github.io
 [teaching]: /teaching.md
-[research]: /research.html
+[research]: /research.md
 
 
